@@ -1,0 +1,4 @@
+"","S.No","Sname","Degree","Total.marks","Grade","date_of_joining"
+"2",2,"Babita","UG",210,"D",2018-10-24
+"5",5,"Elsa","PG",520,"B",2019-10-24
+"6",6,"Franko","PG",320,"C",2017-10-24
