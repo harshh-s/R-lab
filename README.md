@@ -1,4 +1,4 @@
-#R Lab
+# R Lab
 
 **Program 1** : *Exploring data in R*
 
@@ -8,4 +8,4 @@
 
 **Program 4** : *Concept of Linear Regression*
 
-**Program 4** : *Logistic Regression*
+**Program 5** : *Logistic Regression*
