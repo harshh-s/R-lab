@@ -5,3 +5,7 @@
 **Program 2** : *Concepts of vectors and DataFrame*
 
 **Program 3** : *Scatter Plot*
+
+**Program 4** : *Concept of Linear Regression*
+
+**Program 4** : *Logistic Regression*
