@@ -9,3 +9,5 @@
 **Program 4** : *Concept of Linear Regression*
 
 **Program 5** : *Logistic Regression*
+
+**Program 6** : *Ridge Regression*
