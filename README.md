@@ -11,3 +11,5 @@
 **Program 5** : *Logistic Regression*
 
 **Program 6** : *Ridge Regression*
+
+**Program 7** : *Regression Tree*
