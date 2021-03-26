@@ -13,3 +13,5 @@
 **Program 6** : *Ridge Regression*
 
 **Program 7** : *Regression Tree*
+
+**Program 8** : *Random Forest*
