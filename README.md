@@ -15,3 +15,5 @@
 **Program 7** : *Regression Tree*
 
 **Program 8** : *Random Forest*
+
+**Program 8** : *Word Cloud*
