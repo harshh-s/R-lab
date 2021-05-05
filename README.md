@@ -16,4 +16,6 @@
 
 **Program 8** : *Random Forest*
 
-**Program 8** : *Word Cloud*
+**Program 9** : *Word Cloud*
+
+**Program 10**: *Hierarchical Clustering*
